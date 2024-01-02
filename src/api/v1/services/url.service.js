@@ -1,7 +1,7 @@
-const inventoryBaseUrl = 'http://139.59.60.119:9000'
-const userBase = 'http://139.59.60.119:4006'
-const notificationBase = 'http://139.59.60.119:4011'
-const paymentBase = 'https://139.59.60.119:7008'
+const inventoryBaseUrl = ''
+const userBase = ''
+const notificationBase = ''
+const paymentBase = ''
 
 
 module.exports = {
